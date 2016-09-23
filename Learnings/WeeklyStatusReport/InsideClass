@@ -29,6 +29,29 @@ Estimation of types : 1. size , 2.effort, 3.schedule.
 Measuring a size of a project by different methods.
 Barry boehm's constructive cost model.
 
+Week7(Sep 23)
+afternoon: understanding users
+play personas.
+--understanding tasks.
+what to do in development.
+--two contrasting models, each useful for their context:
+application and wizards.
+--user interface- bones
+need a consistent concpet aroud the user interface.
+metaphor is the standard of theapps that users use.
+
+--user interface navigation plan
+group related tasks together.
+--levels of grouping
+--how easy is it to figure out things.
+--usability:
+ease of learning.
+productivity
+minimal error rates
+high user satisfaction
+examples of UI glitches.
+
+
 
 #1 Learnt life cycles?
 #2 Learnt team work?
